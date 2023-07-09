@@ -28,7 +28,7 @@ Obs: Para o circuito precisamos de apenas 4 diodos para a ponte retificadora, ma
   
 * **Diodo Zener de 13V**: regula a tensão de saída máxima do circuito. Se a tensão de chegada é menor que 13V, não há passagem de corrente. Caso contrário, o diodo permite a passagem de corrente limitada a 13V.
   
-* **Resistor**: limita a quantidade de corrente que é transmitida pelo circuito, permitindo que outros componentes recebem a quantia idela de corrente elétrica.
+* **Resistor**: limita a quantidade de corrente que é transmitida pelo circuito, permitindo que outros componentes recebem a quantia ideal de corrente elétrica.
   
 * **Potenciômetro**: resistor particular que permite o ajuste da tensão da fonte entre 3V e 12V.
   
