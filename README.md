@@ -41,11 +41,20 @@ Dado que a tensão de pico do circuito é de 25,6V, a tensão do capacitor é de
 **Potenciômetro e Resistores**
 
 Foram calculados os valores da resistência do potenciômetro (Rpot) e do resistor que o antecede (Rs).
-Obs: "Ibmin" e "Ic" representam a corrente mínima na base do transistor e a corrente do coletor.
+
+Obs: "Ib" e "Ic" representam as correntes na base do transistor e no coletor. Ademais, "Ve e Vz" correspondem às tensões no capacitor e no diodo zener, respectivamente.
 
 <p align="center">
   <img src="https://github.com/PLFigueiredo/Fonte-de-Tensao/assets/128514344/975113df-1f04-4c95-b689-f583cc09b7be"/>
 </p>
+
+<p align="center">
+  <img src="https://github.com/PLFigueiredo/Fonte-de-Tensao/assets/128514344/d0929ef2-12a6-441b-b213-b5d99e56a656"/>
+</p>
+
+**Correntes**
+
+
 
 # Simulação no Falstad
 ![01955c9b-76a4-4a1c-96ba-4d5536e8c2f3](https://github.com/PLFigueiredo/Fonte-de-Tensao/assets/70961838/38ebda06-35dd-4e35-afec-c97e99d3a937)
