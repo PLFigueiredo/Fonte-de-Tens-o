@@ -34,6 +34,18 @@ Obs: Para o circuito precisamos de apenas 4 diodos para a ponte retificadora, ma
   
 * **Transistor**: permite a passagem ajustável de corrente elétrica.
 # Cálculos
+**Capacitor e Diodo Zener**
+
+Dado que a tensão de pico do circuito é de 25,6V, a tensão do capacitor é de 24,2V e o ripple deve ser de 10%, foi calculada que a tensão do ripple corresponde a 2,42V. Além disso, foi utilizado um diodo zener de 13V 1W. Assim, a corrente máxima e mínima que passam por ele serão de 76,92 mA e 7,69 mA, respectivamente.
+
+**Potenciômetro e Resistores**
+
+Foram calculados os valores da resistência do potenciômetro (Rpot) e do resistor que o antecede (Rs).
+Obs: "Ibmin" e "Ic" representam a corrente mínima na base do transistor e a corrente do coletor.
+
+<p align="center">
+  <img src="https://github.com/PLFigueiredo/Fonte-de-Tensao/assets/128514344/975113df-1f04-4c95-b689-f583cc09b7be"/>
+</p>
 
 # Simulação no Falstad
 ![01955c9b-76a4-4a1c-96ba-4d5536e8c2f3](https://github.com/PLFigueiredo/Fonte-de-Tensao/assets/70961838/38ebda06-35dd-4e35-afec-c97e99d3a937)
