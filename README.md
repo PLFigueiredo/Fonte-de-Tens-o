@@ -1,5 +1,7 @@
-# Fonte de Tensao
-Trabalho de Eletrônica
+# Fonte de Tensão
+
+# Introdução
+Projeto realizado para a disciplina SSC0180 (Eletrônica para Computação) do Bacharelado em Ciências de Computação do Instituto de Ciências Matemáticas e de Computação (ICMC) da Universidade de São Paulo (USP). O trabalho foi proposto e supervisionado pelo Prof. Dr. Eduardo do Valle Simões no 1º semestre de 2023.
 
 # Resumo
 Este projeto propõe a construção de uma fonte de tensão ajustável de 3V a 12V com capacidade de 100mA. Essa fonte opera a partir de uma corrente alternada e, por meio da disposição especial dos componentes, deve fornecer uma corrente de saída devidamente regulada.
