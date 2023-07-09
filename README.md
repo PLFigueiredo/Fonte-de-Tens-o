@@ -54,7 +54,17 @@ Obs: "Ib" e "Ic" representam as correntes na base do transistor e no coletor. Ad
 
 **Correntes**
 
+Nos cálculos abaixo, considere que "Vs" é a diferença de tensão entre o capacitor e o ripple.
 
+<p align="center">
+  <img src="https://github.com/PLFigueiredo/Fonte-de-Tensao/assets/128514344/e538a36a-3e9e-489c-b263-d340486bc7f9"/>
+</p>
+
+**Capacitância**
+
+<p align="center">
+  <img src="https://github.com/PLFigueiredo/Fonte-de-Tensao/assets/128514344/97c132fc-5192-4469-bf4c-1b93144b9eea"/>
+</p>
 
 # Simulação no Falstad
 ![01955c9b-76a4-4a1c-96ba-4d5536e8c2f3](https://github.com/PLFigueiredo/Fonte-de-Tensao/assets/70961838/38ebda06-35dd-4e35-afec-c97e99d3a937)
