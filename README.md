@@ -22,24 +22,12 @@ Este projeto propõe a construção de uma fonte de tensão ajustável de 3V a 1
 
 Obs: Para o circuito precisamos de apenas 4 diodos para a ponte retificadora, mas o pacote comercial continha 10 unidades.
 # Funções dos Componentes
-**Transformador**:
-
-**Diodo:**
-
-**Capacitor:**
-
-**Resistor:**
-
-**LED:**
-
-**Transistor:**
-
-**Diodo Zener:**
-
-**Transistor:**
-
-**Potenciômetro:**
-
+* **Diodo**: permite a passagem de corrente em somente um sentido. No projeto, um conjunto de diodos formam uma ponte de diodos, a qual possibilita o abastecimento do circuito em ambos os sentidos da corrente alternada.
+* **Capacitor**: armazena carga elétrica nos ciclos de corrente alternada e libera corrente quando sua tensão é maior do que aquela transmitida da fonte. O capacitor descarrega ao inverter o ciclo.
+* **Diodo Zener de 13V**: regula a tensão de saída máxima do circuito. Se a tensão de chegada é menor que 13V, não há passagem de corrente. Caso contrário, o diodo permite a passagem de corrente limitada a 13V.
+* **Resistor**: limita a quantidade de corrente que é transmitida pelo circuito, permitindo que outros componentes recebem a quantia idela de corrente elétrica.
+* **Potenciômetro**: resistor particular que permite o ajuste da tensão da fonte entre 3V e 12V.
+* **Transistor**: permite a passagem ajustável de corrente elétrica.
 # Cálculos
 
 # Simulação no Falstad
