@@ -5,6 +5,7 @@ Projeto realizado para a disciplina SSC0180 (Eletrônica para Computação) do B
 
 # Resumo
 Este projeto propõe a construção de uma fonte de tensão ajustável de 3V a 12V com capacidade de 100mA. Essa fonte opera a partir de uma corrente alternada e, por meio da disposição especial dos componentes, deve fornecer uma corrente de saída devidamente regulada.
+
 # Tabela de Componentes
 | Componentes  | Preço |
 | ------------- | ------------- |
@@ -42,7 +43,7 @@ Obs: Para o circuito precisamos de apenas 4 diodos para a ponte retificadora, ma
 # Cálculos
 
 # Simulação no Falstad
-
+![01955c9b-76a4-4a1c-96ba-4d5536e8c2f3](https://github.com/PLFigueiredo/Fonte-de-Tensao/assets/70961838/38ebda06-35dd-4e35-afec-c97e99d3a937)
 # Circuito esquemático da PCB
 
 # Vídeo de apresentação
