@@ -16,6 +16,7 @@ Este projeto propõe a construção de uma fonte de tensão ajustável de 3V a 1
 | Potenciômetro B5K  | R$7,00  |
 | Transistor 2N2222A 60V | R$2,00  |
 | **Valor total**  | **R$14,25** |
+
 Obs: Para o circuito precisamos de apenas 4 diodos para a ponte retificadora, mas o pacote comercial continha 10 unidades.
 # Funções dos Componentes
 **Transformador**:
