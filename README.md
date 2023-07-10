@@ -4,7 +4,7 @@
 Projeto realizado para a disciplina SSC0180 (Eletrônica para Computação) do Bacharelado em Ciências de Computação do Instituto de Ciências Matemáticas e de Computação (ICMC) da Universidade de São Paulo (USP). O trabalho foi proposto e supervisionado pelo Prof. Dr. Eduardo do Valle Simões no 1º semestre de 2023.
 
 # Resumo
-Este projeto propõe a construção de uma fonte de tensão ajustável de 3V a 12V com capacidade de 100mA. Essa fonte opera a partir de uma corrente alternada e, por meio da disposição especial dos componentes, deve fornecer uma corrente de saída devidamente regulada.
+Este projeto propõe a construção de uma fonte de tensão ajustável de 3V a 12V com capacidade de 100mA. Essa fonte opera a partir de uma corrente alternada e, por meio da disposição especial dos componentes, deve fornecer uma corrente de saída devidamente regulada capaz de produzir o ajuste de tensão adequado.
 
 # Tabela de Componentes
 | Componentes  | Preço |
@@ -28,7 +28,7 @@ Obs: Para o circuito precisamos de apenas 4 diodos para a ponte retificadora, ma
   
 * **Diodo Zener de 13V**: regula a tensão de saída máxima do circuito. Se a tensão de chegada é menor que 13V, não há passagem de corrente. Caso contrário, o diodo permite a passagem de corrente limitada a 13V.
   
-* **Resistor**: limita a quantidade de corrente que é transmitida pelo circuito, permitindo que outros componentes recebem a quantia ideal de corrente elétrica.
+* **Resistor**: limita a quantidade de corrente que é transmitida pelo circuito, permitindo que outros componentes recebam a quantia ideal de corrente elétrica.
   
 * **Potenciômetro**: resistor particular que permite o ajuste da tensão da fonte entre 3V e 12V.
   
