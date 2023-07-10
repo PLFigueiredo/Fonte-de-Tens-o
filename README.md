@@ -67,7 +67,8 @@ Nos cálculos abaixo, considere que "Vs" é a diferença de tensão entre o capa
 </p>
 
 # Simulação no Falstad
-![01955c9b-76a4-4a1c-96ba-4d5536e8c2f3](https://github.com/PLFigueiredo/Fonte-de-Tensao/assets/70961838/38ebda06-35dd-4e35-afec-c97e99d3a937)
+![falstad](https://github.com/PLFigueiredo/Fonte-de-Tensao/assets/128514344/fa7f0305-4eaa-45ea-921e-bfe65c7c9778)
+
 # Circuito esquemático da PCB
 ![pcb](https://github.com/PLFigueiredo/Fonte-de-Tensao/assets/128514344/d83599ce-7a73-4500-a1d4-157d7fa05e45)
 
