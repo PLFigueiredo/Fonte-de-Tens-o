@@ -71,6 +71,8 @@ Nos cálculos abaixo, considere que "Vs" é a diferença de tensão entre o capa
 # Circuito esquemático da PCB
 ![pcb](https://github.com/PLFigueiredo/Fonte-de-Tensao/assets/128514344/d83599ce-7a73-4500-a1d4-157d7fa05e45)
 
+![pcb2](https://github.com/PLFigueiredo/Fonte-de-Tensao/assets/128514344/38362fcd-f926-42d5-87df-d2a52df03ba1)
+
 # Vídeo de apresentação
 
 # Alunos
