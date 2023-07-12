@@ -75,7 +75,7 @@ Nos cálculos abaixo, considere que "Vs" é a diferença de tensão entre o capa
 ![pcb2](https://github.com/PLFigueiredo/Fonte-de-Tensao/assets/128514344/38362fcd-f926-42d5-87df-d2a52df03ba1)
 
 # Vídeo de apresentação
-Acesso o vídeo [aqui](https://youtu.be/JCpPlzGXKq0)
+Acesso ao vídeo [aqui](https://youtu.be/JCpPlzGXKq0)
 # Alunos
 - Arthur Trottmann Ramos
 - João Pedro Viguini T. T. Correa
